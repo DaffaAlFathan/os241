@@ -57,3 +57,9 @@ ZCZC W09 30 L03 GitHub related
 ZCZC W09 30 L05 QUIZ + Time spent studying
 ZCZC W09 20 L06 Books related
 ZCZC W09 450 L09 Weekly Assignments
+
+ZCZC W10 20 L01 SCELE/Discord related
+ZCZC W10 30 L03 GitHub related
+ZCZC W10 30 L05 QUIZ + Time spent studying
+ZCZC W10 20 L06 Books related
+ZCZC W10 120 L09 Weekly Assignments
